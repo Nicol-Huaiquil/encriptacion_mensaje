@@ -1,0 +1,95 @@
+ 
+INSERT INTO Mensaje (id_salachat, id_usuario, fecha, texto) VALUES
+ (1, 1, '2023-03-05 19:49:43', '¡Hola chicos! ¿Alguno de ustedes ha estado jugando "The Legend of Zelda: Breath of the Wild"?'),
+ (1, 2, '2023-03-05 19:49:51', '¡Hola! Sí, yo he estado jugándolo y es simplemente increíble. El mundo abierto es enorme y lleno de aventuras emocionantes.'),
+ (1, 3, '2023-03-05 19:58:55', '¡Oh, sí! Estoy completamente enganchado. Me encanta cómo puedes explorar libremente y descubrir nuevos lugares y secretos en cada esquina.'),
+ (1, 1, '2023-03-05 19:59:32', 'Eso suena genial. ¿Qué les parece la mecánica de juego? He oído que es bastante innovadora.'),
+ (1, 2, '2023-03-05 20:10:32', 'Totalmente. La mecánica de juego es revolucionaria. Puedes escalar montañas, volar con la paravela y hasta cocinar diferentes recetas para obtener beneficios. Es muy interactivo y te da mucha libertad para abordar los desafíos.'),
+ (1, 3, '2023-03-05 20:10:35', '¡Exacto! Además, los combates son emocionantes y estratégicos. Tienes que tener cuidado con tus armas y escudos, ya que se desgastan con el tiempo. Eso agrega un elemento de supervivencia interesante al juego.'),
+ (1, 1, '2023-03-05 20:10:50', 'Suena como una experiencia realmente inmersiva. ¿Qué opinan de los gráficos y el diseño del mundo?'),
+ (1, 2, '2023-03-05 20:39:32', 'Los gráficos son impresionantes. El mundo de Hyrule se ve hermoso y detallado, con paisajes variados y pintorescos. Además, el diseño del mundo está lleno de misterios y lugares ocultos para explorar.'),
+ (1, 3, '2023-03-05 20:49:32', 'Estoy de acuerdo. Cada vez que juego, me sorprende la atención al detalle en cada rincón. Es asombroso cómo puedes perderte durante horas simplemente admirando el entorno.'),
+ (1, 1, '2023-03-05 20:59:32', 'Wow, definitivamente tengo que probarlo. Suena como una experiencia de juego única. ¡Gracias por compartir sus opiniones!')
+ ;
+
+INSERT INTO Mensaje (id_salachat, id_usuario, fecha, texto) VALUES
+ (2, 1, '2023-03-17 15:31:00', '¡Hola a todos! Recientemente leí sobre el lanzamiento de la misión espacial hacia Júpiter. ¿Alguien más está emocionado por esta exploración?'),
+ (2, 2, '2023-03-17 15:31:05', '¡Hola! Sí, también he estado siguiendo esa misión. Júpiter es un planeta fascinante y esta exploración promete revelar nuevos descubrimientos sobre su composición y lunas.'),
+ (2, 3, '2023-03-17 15:31:10', '¡Claro que sí! La misión a Júpiter es realmente emocionante. Espero que podamos aprender más sobre su atmósfera y los secretos que esconde en su interior.'),
+ (2, 1, '2023-03-17 15:31:15', 'Exactamente. Júpiter es el planeta más grande de nuestro sistema solar y su estudio nos brinda la oportunidad de comprender mejor la formación de los planetas gigantes.'),
+ (2, 2, '2023-03-17 15:31:20', 'Además, las lunas de Júpiter, como Europa, Ganímedes y Calisto, son objetos de gran interés debido a la posibilidad de que alberguen océanos subterráneos y condiciones propicias para la vida.'),
+ (2, 3, '2023-03-17 15:31:25', '¡Es cierto! Las lunas de Júpiter podrían tener ingredientes clave para la vida y explorarlas nos acerca a la posibilidad de encontrar formas de vida fuera de la Tierra.'),
+ (2, 1, '2023-03-17 15:31:30', 'Estoy emocionado por los datos que obtendremos de la misión. Cada exploración espacial nos brinda nuevos conocimientos y nos acerca a desentrañar los misterios del universo.'),
+ (2, 2, '2023-03-17 15:31:35', 'Así es, cada nueva misión nos permite ampliar nuestros límites y nos muestra la vastedad y diversidad del cosmos. Es un recordatorio de cuánto aún tenemos por descubrir.'),
+ (2, 3, '2023-03-17 15:31:40', 'La exploración espacial nos impulsa a soñar en grande y a buscar respuestas a preguntas fundamentales. Es un viaje fascinante que nunca deja de sorprendernos.'),
+ (2, 1, '2023-03-17 15:31:45', 'Totalmente de acuerdo. Sigamos apoyando y celebrando los logros en la exploración espacial, ya que cada avance nos acerca más a comprender nuestro lugar en el universo.'),
+ (2, 2, '2023-03-17 15:31:50', '¡Definitivamente! Cada descubrimiento y cada paso en la exploración espacial nos inspira y nos recuerda lo increíble que es el universo en el que vivimos.'),
+ (2, 3, '2023-03-17 15:31:55', 'Gracias por compartir esta noticia. Estoy ansioso por seguir los avances de la misión a Júpiter y por descubrir qué nuevos conocimientos nos traerá.'),
+ (2, 1, '2023-03-17 15:32:00', 'De nada. Es emocionante poder conversar sobre estos temas y compartir nuestro entusiasmo por la exploración del universo. ¡Sigamos maravillándonos juntos!'),
+ (2, 2, '2023-03-17 15:32:05', 'Así es. ¡Nunca dejemos de explorar y aprender! Gracias a todos por esta enriquecedora conversación.'),
+ (2, 3, '2023-03-17 15:32:10', '¡Totalmente de acuerdo! ¡Hasta la próxima!'),
+ ;
+
+ INSERT INTO Mensaje (id_salachat, id_usuario, fecha, texto) VALUES
+ (3, 1, '2023-01-15 17:30:00', '¡Hola a todos! ¿Han probado el último lanzamiento de "Animal Crossing: New Horizons"? ¡Es adictivamente divertido!'),
+ (3, 2, '2023-01-15 17:31:15', '¡Hola! Sí, he estado jugando "Animal Crossing" y es realmente encantador. Me gusta la tranquilidad y la posibilidad de personalizar mi propia isla.'),
+ (3, 3, '2023-01-15 17:32:30', 'Estoy de acuerdo. Es un juego relajante y adictivo. Me encanta decorar mi casa y visitar las islas de mis amigos.'),
+ (3, 1, '2023-01-15 17:34:00', 'Definitivamente. Es genial ver cómo evoluciona tu isla y conocer a los adorables personajes animales.'),
+ (3, 2, '2023-01-15 17:36:10', 'Además de "Animal Crossing", también he estado jugando "Super Mario 3D World + Bowser's Fury". La jugabilidad es divertida y el modo cooperativo es genial.'),
+ (3, 3, '2023-01-15 17:38:20', '¡Ese juego también es fantástico! Me encanta jugar con mis amigos y competir en los desafiantes niveles de plataformas.'),
+ (3, 1, '2023-01-15 17:40:15', '¡Sí! Nintendo siempre sabe cómo hacer juegos divertidos y entretenidos. ¿Han probado otros títulos recientes? ¡Me encantaría conocer sus recomendaciones!'),
+ (3, 2, '2023-01-15 17:42:25', 'Recientemente, he estado jugando "Ghost of Tsushima". Es un juego de mundo abierto ambientado en el Japón feudal. La historia y los gráficos son impresionantes.'),
+ (3, 3, '2023-01-15 17:44:35', '"Ghost of Tsushima" es increíble. Los paisajes y el combate con espadas son épicos. También he estado jugando "Call of Duty: Warzone". La acción multijugador es intensa.'),
+ (3, 1, '2023-01-15 17:46:50', '¡"Ghost of Tsushima" suena asombroso! Y "Call of Duty: Warzone" es genial para los amantes de los juegos de disparos. Gracias por las recomendaciones.'),
+ (3, 2, '2023-01-15 17:49:05', 'De nada. Siempre es emocionante descubrir nuevos juegos y compartir experiencias. ¡Que siga la diversión en el mundo de los videojuegos!')
+ ;
+
+
+
+INSERT INTO SalaChat (nombre_salachat) VALUES
+  ('Explorando Hyrule'),
+  ('Bendito universo'),
+  ('Tips ueguitos')
+ ;
+
+  INSERT INTO Mensaje (id_salachat, id_usuario, fecha, texto) VALUES
+ (1, 1, '2023-03-05 19:49:43', 'gAAAAABkjdpGzms54P7CnshDiC_dwuQM65hMsWebBEOGkhe504zTQZ_EhhtMlE48B3N-Nc8Obg7w328mbpMoa1oF89kX6_-GELLjayQN5-KLI0B4EcHBtGgcqPUyULDHpOwFWm1GPxgw-Y0Jept5dP2n04DobSB_K-XV64x96ao7v-YFlILNJs_ElptyzIU4Yxv_ceD9w46N'),
+ (1, 2, '2023-03-05 19:49:51', 'gAAAAABkjdpGbbmFDPNaNsNZWIRhbFbDyh2GMVIVf9a0mrZN1ZVE-VbpOIBRcCjJN9E27J9rVhSzatvW43_C737caOlsm7Eo7F-aD39IfCKAWZFcDgv-gxB_itB30VWFyaZLAEAon5bgq0Kj6JiSKYcZi3bASF5hcr9rzM3LHWVskAKumfKSRvE41cGarIWsSVIMUypfbjFSRa2ViezsbIisMDY9N3IWu5SWpVnSDk0CC--F7vqhASQ='),
+ (1, 3, '2023-03-05 19:58:55', 'gAAAAABkjdpGsbnVI49lD_hAZR96eY-HwKeZ1raijRB7fUiZXkm154sewcMFb17pIojJ-gAMft8RcVF573EKyWwYqXtbBVsSW96OLXs29-ZKJZmNhoYDX10Z46rgzNOSCNgjinIQPkjMMuqlGVjVhfV-pByMK_nPYwQlsizTp5xpSfHav298vUgEqEuWZFwScZw5xZODRWMfG3AgXHvf8FePzcT5ZgboRuhFMek87LQJ01dXwVmT_aZwYf0OVnoWHNa4vatfo66p'),
+ (1, 1, '2023-03-05 19:59:32', 'gAAAAABkjdpGcgAgwvxgJQ6V2m5EdD9VJvYoxPgcI5k35RYTTBDv2UnSmIwaM6Cmx4xKUO2gIRI-zJNlo4DRAfp_szJOcSmYZVPuWliF2lhIMs9qjtwMbFoRVHyoCcMrKjWfBHO4PHwKMob_Fn2Uicyz05SSuJI3vHhKQwl-CpWidJndomhGFjC7eQrFbEWCFEcjvVWEUnb7'),
+ (1, 2, '2023-03-05 20:10:32', 'gAAAAABkjdpGqtcrbb6tjIjMOMjbS3jlxHudjLbOZD1DEIQe8iRPEPth2VqpAEqoZzbUN2eLCMCgAgkMY-MhlMiQNLD-A9UeMQJFLxDUC9wo7Sg4ROef1VnmlbgoMgnX8JRT3lac0v9ZVzk3ZuxhxaXVSnImu0SlWlc5tTLlmfoKYltp2kqynUf4gfblP-HjGnNaWqvjZVujDlJzg0epQm_AKw2U5vYHgAcMjuqQ2-m-3TWlk1G574axj_8fjfwDnnSnQRfjdZbj3TyxkPxrrtZfSIp5TKq9SeOixj9tP5y1tJykb5bb--xXJKD18xzZcPUthtlr4HUx5nT1qG4pSLytBXvc6wnrFK673Or1NakfWZyI7RIljFaO0dXCniJqhcjaFU7hacWw'),
+ (1, 3, '2023-03-05 20:10:35', 'gAAAAABkjdpGGrvloO9fe6IzzBEgPWnnvIR9_9WOqXhMrzFRTs13mnkTfEc9uBFrrs-t29iHBrEnxGs4AecoEhkTLkmfdN34W6FqC-yr-CiI-WZSNfNR212jtOaXcjwqpDy97JnKjP4hdchCFfDqM150GgTG4DlzuDYbmSjB61AfuCznERN8k4iVHUVNIJqnHQ-7b7Fjzm_z_PtDx0t1BJ_IyCwIV_TD20U5XD9vTVjFzS51H-QZ-oQSO-Vcks_hU3FEaL3LkHDO2dUwzPGLuyoD3QAo83vHasAIlXAZGmNUOUWdyDUpkx42U5mnZH8PGm8rZwDtatfF4GOOilI8Cs-WCrON_VeJTXcUHN_jOWd-vuxpi9qRzjo='),
+ (1, 1, '2023-03-05 20:10:50', 'gAAAAABkjdpGVWXNJA2sfUdqS6w_OQGy8ipHg2MWRrhJgP9Osuk7pa0J6fgzmf4gZcXTML0OG7kS98xCCwd85tw7Z6Y_gC86g348boFSQcOhvDMH8FMvWyMdS5adWUnSrV_wQIHx2gT_KHIpEwUXVzW5DHQacmez4p96WWUVYRioWJGN0CxEGVbSxDZniCPY36bYoDlJDO56Tyf4Dyfr7qPBmzeHnu1cmQ=='),
+ (1, 2, '2023-03-05 20:39:32', 'gAAAAABkjdpG-RFDUziU1_idTvQXmjHlW7VFgTJeAHRe20OxYH_MNf6s5shjXPcCkVT0LXqX7F9dWkqrncWf3tHpTAEI1e0hwYU-9c-CAyP8OQZlRaBrzo3NBIVbRFk3DkMPlpF4FvsAc1yt5rCMG6plOsUUiMMQWgVNRLYr5NoD_YngwALpD-ie9lFgG7-umg8jX5_scjRt9i5kibog6QqWVblxHerc4PWK2Q3vnTAbCJ8NmBAnzLbvHegzjhDHAUhJX-17SUdoszkMEadyDsLkOvAwS-WHTNxfZkHh0KX-_EYp5JkzP3OTDu6d39w6aHCsS-SrrQni_k6ZyPIoSGktK_Zs-ns75w=='),
+ (1, 3, '2023-03-05 20:49:32', 'gAAAAABkjdpGFROeCu08CeX8Vhd8K7iEpla47UgHs4PbUKQ3QCPF4SY22X_EjGXj6aqhvMcdeUDvqrhKexH6lX-FN8AuJzWcujShlp-sGH4wNFZ5OBlFRhd-mMpKRPKN5XiDPVuc152PLYbanFqCOs8VYq8_rUwn1z93kHh7xeijU4qb3ugMEXSO014uLzbCIlvLuIUFuAOFSHO48xkN-75veIMtHPTieYJfSNtAE_z-wDdCSR8e2YBly7xJQVErW9wgBtsnELVH2ndpJpglMvCZq7TcIILSlDFeFzi8R8BIwSjzEKRX0O4='),
+ (1, 1, '2023-03-05 20:59:32', 'gAAAAABkjdpGTTf4OnJ2NBHuR64pQ5pRW_oCk9HHUGOF6ARjjnDx6ZPBVx-EkGq3dvWMezqvaABj7aeOPM1N2KDScugIUhsXzP5pZUjmBVJLjysxZFyXPV_ub6HWeTz9U3cD8tejt93W4D-kSh-9-pZfkMvZu-H5ncPnbc3ct-l0exJOI-H8uNDeJDAmR9m2T5E5UEZNJN-ioCOdlYUypMIVjhbKgvHcFAVMwApS4N6-ikpZnW_63nc='),
+
+ (2, 1, '2023-03-17 15:31:00', 'gAAAAABkjgomT3gN3Nbx6nuCm17kZaELuX5fPQp6_yf3quEuNDB7ofBQkyxbijOMdghguEEYYv8pgER__z-twX-ZyCy5kswVyoTNc1OjOmcmt4UlOy3b5pMC6NYWE3T4YsxdDVsbgNL5SioUREfxcczVlG8sT0rT6I9geLCe5y1A91r4e_-qyl94sYyUIaqr0G5GLRy1A8JHDngzTwM36ygQpf1mLX4rT_BjavxTrwgvVAZNC87QcYtndWYJ_WYgw8I3K8Nci-qOjkqh4WqtYmS8r7nMIsAQzg=='),
+ (2, 2, '2023-03-17 15:31:05', 'gAAAAABkjgomLLYWkD4Wqj0mGeFJmvRA3jlOMLozGZ3ouhDXy9n11hVgyr4svP-9C3FY-4ual3GPROF4ftKZEk5UhrP_iP3WyRD3QP7RX7dRAMeud1hvnMfakrPFKZ99WlKNuSCjdkEMc0okRVB-9u_QXRfcHVZ5WINYIwtEn46L13Xlyh1jAwVoG60pNaNoW99zb3BoeOePTY8dyIt_2aenZUPVOFP-NQNP-y7T8SzcUvQExOaY-G1FLivH3dqUehyMUiRsVZtRqRXbGTe2aXh-uYfQ3Uy_1MP7vV_ZumiPovGQuUqmXJ2bSaUbul4-KjnzqkXAYy_F'),
+ (2, 3, '2023-03-17 15:31:10', 'gAAAAABkjgom30eO8EZYn70yQEwBpBRDqkY9G2hdkU1oT3RHc7RVylxONTnhz3cdAjmmdFNIG9W-Rbq-b12_nzUI6-nC0PbLSM8DEd9WZiV_86JJeu_vzGsJczEHiTzPczhkHPQmC5GovqfgA_752rUT2yakutv777tjbYqZmkaIK6h-3hIFQ0-36dK5eJvJ2rgbCFk_OnRJqBsdiWgVijsgHQkjzgGc8BGk2WBC4hidtakLYFYSgZquAd96IFb5sidBaW9vM2VwLoJep3MjYvB293dbPpstxjTtJt8L1ZerBZi0vfEFgc8='),
+ (2, 1, '2023-03-17 15:31:15', 'gAAAAABkjgomHNdWdej1gS-14gWVskJJepDhp8S7ulfaa6__ZrMKi7Jx27blwuZ5ORFvrH-pQOKCkXLZOiqqrUU7qofoNMO-9GZ-847BUn2LYggMzKmXiAor-bAIHfdzhPmGsJ-RjCqw9q4JkKMqSdazx05i5m3kSEV5GrE4BbkQcF8fBiMwSoovyUEQlyI7cYOZiJYiPS12xSNjV4-ZsGW2dRS6-7AYvx4xJ1uQVEeOGkkJPZKyUwBjHkRgMkhdhIfEUChzEb2R-1vTuC3NQJgDEKLA4X8vJ7Jy9IcTbwtWp1MQ8CFHd6Q='),
+ (2, 2, '2023-03-17 15:31:20', 'gAAAAABkjgomjzQ1zxOySayR-DSwD4HzlKqGOpIaea_1ROOrUtpr11ELWtfMjk0Jne334syUgP7nncBTAAOwB69PSpil82tAS1RdUAfHXZ0JHlUmthqSmA_vibKVZTg7u7oASWJ10TQgpvruTitoguTNQYnc0bRj8nzMwvySH6YufRcpyBYMnlD_XVTjsq89tbpfN1sYRoxI4wpbXEXiJwC1tkMElXkscqnP6mPn0abtoW_nUZUtvuDue5RtRsIlzn6u_RTtsgyvjdBk6c2b_c8K0ViZVPgxZxjH56xyjb1nk2BiMiDGHPwkbsxA261V7Mu-Fr8Ad8nKC-fHP0R_v34a1YpgEWMtMQ=='),
+ (2, 3, '2023-03-17 15:31:25', 'gAAAAABkjgommYaafWAs-Jmsx8ZqvVn57yCrFVvoeJN9zUmFJ46kjoyS95kYdWf9aLiwQy6YSRo4Np-PnVfTxE2PndQzqQeNKJQcER8nV0-NA5SviLtFqu8KRsK5EmpK6Vvr6LA4IIvsYBmm0tb6yofI4fjtZiyAWlnF4dde86bXiXIVzP-1-3m7XkGaNOgiqlopZB8mY0a6sdemz1CAN144cqsOVgED-i1MOpt9Woedamu5kY93C_t-N3tPLn3J-8wVmtk1Xbxskgto-gwKseUnq8MDXIsutK_giWI3aPTqMOLl3_wKzyg='),
+ (2, 1, '2023-03-17 15:31:30', 'gAAAAABkjgomgE1T--LvSmRv_0zmJBrdKpuTTCAKc5GpOIXORZosrjMhIX5i6HlfMiEZJOJNom9TU7yvo9urjemcjM0Jzno4LVYtclQ_x2QZkfAR-bSZ5YAMQg1R5LV5RhGGm3zDJfIRG90QhaDJ7E1ezSP17IFbGhVFQD_JIHRPoDk77quqP6CqkIU8jEOSKGAjjziziN8kW5--NgDyroN9AT1DREsvCW_ZSC65N_cKkDacWbVh8X9BFLZK1ShnfaFQwMhwMpfnswZ-venQnXYINI7Vhw44s56UqehaErgbqSiqhOJbMvLpDydnne2LcJoZUgLPWVKa'),
+ (2, 2, '2023-03-17 15:31:35', 'gAAAAABkjgompVE8fo5Mls0Fd8CjirG3zUVrTGQG-EN4tJMWj22C-GI9Yotkex8EP6Wrb39mTjN59K-59IdrsNgcyeKPP8aYPJFa4o1jpHyK9h6S1_AbUK6yQ039i0JPjF79QvkvB8E4U4o-e8YBn_WO4mD-iboa3zHAsyyCzVihuL51NDwBau_AJVRhi1J0Fim29_mz2j95yPjGQKX88x9KunNpCdsh0Ntc7ZO0mPWERkycJpW7PqfGvymjQOH7bilWDRqf8oQbkfPeVz252_iOnzOn1BUMaixYqxNt_LzlUN9uujTnW4E='),
+ (2, 3, '2023-03-17 15:31:40', 'gAAAAABkjgomGPiskaz5sG11J5V4hq9HL2xlolwc6v5y2s1FHjDKS8qx7-3IHAPBrfaoAtW7GSshs80VIbVFMkTgkMaHW8c8vIZjRMeaJ-YeWtuTnI63lVE1v57lE-Tx8VQlnufEDydI697PvoKpD0ExnoOUzqdnd-ZPCjnxFGcbNAiKsiO_j0GoufKFlI88hVZaxMiG8dpEUcb7NN82NpE7EYvqdAaN30W3IRmY_X1djDLERuONxskl672vO2Pzc0qdLAyBxcp6mHTiVzNKWKtP6H6P5wfrrmwTaKDt3310CKFhoAuLd2Q='),
+ (2, 1, '2023-03-17 15:31:45', 'gAAAAABkjgom0cR2v1WbQY1irqvrPIzpUkR1E5d3Ea8l7hRwdTBHdsEGYk-FlRAVT0wMpJAkOnVHLy86492vttMq1UijAoZwcWmNKq7SoVKPGeouC-gs5G-vSlOTi8_S6DBTxvcHYRlR0d-7ETRKjhdjt8bamAzPtP6kFbir0eMdTqHd1pw-_3YY5R9GqxBLGTdfKjl2x8QxX3XQUIyNli0oWAjCeFtDQ2CxvhP9kEWNf9Rz8wKyEDhMyyk8B9emrzricEiXDK0PxGc5frxhvIqDX7xQaXdAZWG0xCew3boGfzw8DANQvzA='),
+ (2, 2, '2023-03-17 15:31:50', 'gAAAAABkjgomogs4zy4xa0ajrKIZrnaxtlY3NWs33W25WGPfiZCEJPPhUNQ8M7KvKA8E80fOsmBU6r43c0dIxou38LwzwVKCGgkbVqSuvXGtuCn7-K1UufrjcXMNgE8LnN2KthwtbYV0VCPvi0GCQdbjgrK8Drv30Z4GO00PHcL7imRsPUxN16IbJtnLZwL9-1M7txhhb4y15cbT9tcsVY7lLDVg3236yM7MYnmCkbsym5kXrHK8TFdE-ZR0eOhoCMNAotE23DiSOY3-FxTKdmlok2OpJiFbzQ=='),
+ (2, 3, '2023-03-17 15:31:55', 'gAAAAABkjgomNWCGpK2iwCQgpF0w2eiBpIKkprz8L2MCXgQx1S40Sg3FHFiT32C8cOy6FifrZjMnKko6bK085L2xkhIEHrtc6dbvC6oc5A8_kSWItYU0MGQhM2xs8wQ4Nuyg-fHjmailD7VZob8WvyQzc_vkxhMU_ElS4K3isoojwMbNhFGAl9b9I14X8cY5Xlgak_I92DM96j4thO7lryKaQ54bOw967bGHDkmoSxKo6BPtZPyR-PzHQor_BIbRleELOtQE-m9Znd9koWtL_BxvuU3lQ_Km0A=='),
+ (2, 1, '2023-03-17 15:32:00', 'gAAAAABkjgomToxuFB_n3XTiwvTqVUeP1Pjkt7eaANRMKf5hvPaJLwwjUZI4yRz1hWeFISBcI_iqaPQTmYUoI7e9IEJlb2RCCIQPRl5svIDmYotJDy-wq7nhqfhKOfvKXFRxx4FWAHsWZ-cWlvcdNpoqPAZp8_5CRqywtnGgapVSqYRbEswRlG3pecNrnABnUldpmfrPtBIBrbGok5KO7dd2divrTrwSWFB_MRZZagHbU0leMEbsulbzbdjKlz-sl3KIDn_-FGSIDX0erZueRm5G9caozk8ggg=='),
+ (2, 2, '2023-03-17 15:32:05', 'gAAAAABkjgomiUSzn7jzJ2yKnboQUTYRxQ-NYe2xq2-KDXF7TSdf8KM9kg5YqbP75sixzx5AlywxXjA6pd1eHatYrmqUEZZkHBqnpIMinswtdAFSnqaAheIePyRVwMw5Py_j3omEM7DHdulhtKLzQsuylr7L2rmpyOd4LKG5R88roaa3J7KramZdRrt-lf__87r6QVlDDAybObARRLV4VrD4hHhrxEdJkw=='),
+ (2, 3, '2023-03-17 15:32:10', 'gAAAAABkjgombGI2irseufuX-Iq3FhynpfFwrOoZRJbjcZjvB4nHm6_EKHHz7r9jJqBKOFNCKMjfazvQZPbKFyWLFVfE8eUMgo-YlOYJ8Z5S8e_EYibIekG1dEAOfbrVNspXqtJXlgyv'),
+
+ (3, 1, '2023-01-15 17:30:00', 'gAAAAABkjhDmWqerCd2Q3LhW4oOxpdjh_ayrO-vb8wAlP2LkpMax3ox6ClHUH_lUP1daDsWcT1edFfIg6SrxEKOMvpRgVmcTcq6dzA2sExA-dEwxZFXbhqt2HpmJaygxvzBmE6YBOw6IGducB-RnTArzz2shy4gTeVq7tvefxk4lS-gVWaSS-I_MTcoSRvTmd6FQj6NSP_7s6hAmYexSra08j3L0kqgo1dUFw2fNIgEo64J97g7QcAk='),
+ (3, 2, '2023-01-15 17:31:15', 'gAAAAABkjhDmB_pKZReEy_oyCqzOJZO8NQ2HrG7IByfqB_TFym-_b_8W2Pk6BFJVZDbA3dOlw25-lIx3af3EEA05iU4sXcyOluD_9VAagX0dDjUh1YCTUSeNg8YEhvIiPtZwUIm-f7YkHO-0RArH_g4Kmn6Rbe3C47-oV1Sc_d9zDcNuBa0P7u_U32MulnwGdGHjD732ZYDAriYioIElM6PoGzwvuGIRp8JQ_cJK1NXRdeHdIHMzYuEZ9IPBMQGmzaezUJVt_C_sCuxqBlq1DpLg_L9YzY_OVg=='),
+ (3, 3, '2023-01-15 17:32:30', 'gAAAAABkjhDmxRx8gFD1ZwTClKqWFn423mg3YYpBBblKfDof4trvyCKp8AfneC-tSRYEe0-BuIKwArWjf9psqeDVE2WjqTlBJg4pUSAimLajQ-47hTe0qHiNJn4GgLc5DAG1Uhy96elgnWFZ9kmXxXykiTZrSsG08CaRUm8t3bZ-NAYh0gNYy6fAIwoF8whOgiW-oKz9kkvm4wCn5-AaVKFVwCCY5PPpC700XgemsZe_Dka_zhIUxnY='),
+ (3, 1, '2023-01-15 17:34:00', 'gAAAAABkjhDmaWsUR3J1_3mOUfC74gQ_vcjFtn4kRKhQ3ICQIcme7ReEZbygmbsz4-w9jCM_FIeX01BkOKDETo2gQeMBtMX36CV6OSH_hhocvdut1ndEkHTdHGBRLzCJb91D4BCRG1vq66HSk0TnneRypYWwz7bLBGbWC3zujczgRgMh-g6tavsoqDIAw7Z0lWa0n359YVMG_gMSWPbJzgTNzGc5REE7zA=='),
+ (3, 2, '2023-01-15 17:36:10', 'gAAAAABkjhDmcyH-PMeZKmPeamphOA9Q4iBA9gxHVgerSkxR9h00uET4l0m-qPLGs7sbglhx7q1wvB4qZcBNBP6ojrapRcSR-liP-Fn0xaimcakTadVlcEzJGcRbNkSVxCXI-KMzdaS4rj5Jksucwp3b5rRKsvmJVsMbKxMYCUxGAUuCx7zod4fYF6ahsyvdqcBQV91sN8BxcO7cHixfVPPXbFKC1KWbEA99j0vTzAC8DmLmiRKzZvoBeBMjWyR9vbApg2R4KYGGfBzkMlRPlWB45Optqy8S_A=='),
+ (3, 3, '2023-01-15 17:38:20', 'gAAAAABkjhDmT_u2_rEhXRKwJcvQvWzq7o6nA3X9bAeGqGUCHfEydd9wyKKvzEdNKkk5yRGWUPe3h3IwhjpPhsLyRy51IJPCcRgHNTANHnP2Nx6G8oIu1M8aQrnMkutMxTqs0PYstlZ9SKZm_C7ooSbd3jXStWMUjaYxCIRSZSNN-iTujRBs_FUOFQwbZSP-xHuI6sUG1_FQWjo3o34hQFmCxJ0_xpTfkRheyrhA1TguXUzy9Q4s89s='),
+ (3, 1, '2023-01-15 17:40:15', 'gAAAAABkjhDmdalauNDC58Kgg3msls4gzQ-YSnscvvuGT84ObI9PLg6_4o01n-5bejFjOFNJRJ0polrULofzH0a3-WFQJJ6VkM6S0sail68MorgoO7Zokw1QQwjxDmNfQW9TJI66pGOpCj8eJSaHUVyCEkUVJ7hdVbQRXzuleIhkmyZ0yG3vJ8p2Vf_g2A3gS17MCnksIyL7jkZSbkL1TntDkSldWYrVKsBoYNk435AoDBdNfWElrv8TIHWwgG7esxS4oeCTAj0MNEq37DDS6M8rUysh1B-4zuBwXhlB1_pPqimr7rYeJsM='),
+ (3, 2, '2023-01-15 17:42:25', 'gAAAAABkjhDmEI_Kq9OiI_WVo5159K9FNfEXj7jAFCT3ooxFtz0SWuHPYKvy11WFUm7pu450PWEHHYqwIy9lBx518CpFZ7Fpzo9qXlWCSAwUJGVl-pl6JEN_cTUJi5NQhBMrX04wgxcbQYmRgujNDTOVQp9kya9D7OdAr3oDszNqk5tz-GsIMA0A71NZwZ8qEDXStslO---hSGM9T_qud1N-z03ZquGtjdigXzPFxkowzt_RjjLxB1NMeLFabRuHykpG2tzouUbEZ0e5eVjUc8uK_OidIWvrJy5T8u_47VP5z9AmEZ3nDA4='),
+ (3, 3, '2023-01-15 17:44:35', 'gAAAAABkjhDmGhjt5nnFYSMxo5Bs6XYqpMVCMF0AuftvEOIvA_uxAQR3PojlbyWjz6XzMCORK1I__cjYK113diKHmasl1kpcyfEQbEoNVOLCO1OswdSNg8IVtJP_KsAHFY0xkd6piL4vICSeg1ltPUezQt5TSPGbqCub6umd60yciUEdvFu0sdn9gDvOTZcfvI4vdjuS0yJWYC7TfozbEC_4JuzvMGDAUgxTZ1_jyHqm9VhGrxyTiiXRM2Xp7PtXP83fKCyQ3LwBuRlePTstvoxonQJe5zSBtsFUHhQ9uf-7VbsNM3q3QH0='),
+ (3, 1, '2023-01-15 17:46:50', 'gAAAAABkjhDmiPnlw26WjJAaZE6vbP1MqdZMFB2YQE8oR01dTL7kZa7yXVcb9Hmf35FatCs-zzXxZLEGhBJ9xLjxRH8Qb7xLzxiy4YeCFdWavxaxO7F_HWvR7slmUdt8eFsUbXPNiwyxqVVycL4FZK81d5ujwLMAjB1kDmlGsmIJheiWojgfmoN9amJb54DjcGjDQEHU6acnHFCHecIwlu57IDurD3Evq_veuMa6lLtfptSMU-G0252GMZL706QqxW3LAuukk8NrIY6zWDXFJftHEl9UDOYcdQ=='),
+ (3, 2, '2023-01-15 17:49:05', 'gAAAAABkjhDmm52tsm_dWO2DGkGnKMuEKg8DOdDsXvSktnpIOuGi9ctoYEP5fpwHvTVuj8xnbj9P8EWEmuQbimtJKbx0kyP46U_OcigEOuhGQX3tWEsgWcMwiceLfBOyuoebCFm7q5DWBjFLP059yw_VRK1pmO5lyLqUkdwFoALHX96ZVu-AdF-eUYqZ1q9rT18WevY2PpNC_UnbIc01l8t4i6lxuYUWIs7m7wKfO5rIlxA53XtXgwLyN3YOxt9aUOSg1hX6_4_t')
+ ;
+     
